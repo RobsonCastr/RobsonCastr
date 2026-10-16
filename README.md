@@ -3,7 +3,7 @@
 
   # 🚀 Olá, eu sou o Robson! 👋
 
-  ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,24,30&height=200&section=header&text=RobsonCastr&fontSize=70&fontColor=ffffff&animation=fadeIn)
+
 
   💻 **Especialista em C++ & CSS** | 🎨 **Ilustrador Digital** | 🎸 **Guitarrista**
 
@@ -45,16 +45,14 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+
 
 <div align="center">
   
 
 <div align="center">
 
-  # ⚡ RobsonCastr | CSS & C++ Developer
 
-  ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6,15,30,40&height=200&section=header&text=RobsonCastr&fontSize=70&fontColor=ffffff&animation=fadeIn)
 
   🎨 **Estilista de Interfaces (CSS)** | ⚙️ **Lógica & Performance (C++ Timer)** | 🎸 **Guitarrista & Artista**
 
