@@ -90,16 +90,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  
-  <img height="165em" src="[https://github-readme-stats.vercel.app/api?username=RobsonCastr&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=RobsonCastr&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true)"/>
-  <img height="165em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonCastr&layout=compact&theme=vision-friendly-dark&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonCastr&layout=compact&theme=vision-friendly-dark&hide_border=true)"/>
-
-</div>
-
----
 
 ### 🎨 Comissões de Desenho
 
