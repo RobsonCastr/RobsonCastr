@@ -49,13 +49,7 @@
 
 <div align="center">
   
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RobsonCastr&show_icons=true&theme=tokAqui tens uma versão do perfil do GitHub **especializada em destacar o teu domínio e foco em CSS e C++**, unindo o melhor do design visual (CSS) com a lógica e performance de baixo nível (C++), sem esquecer a tua arte e a música!
 
-Podes copiar este código diretamente para o teu ficheiro `README.md`:
-
----
-
-```markdown
 <div align="center">
 
   # ⚡ RobsonCastr | CSS & C++ Developer
@@ -116,10 +110,7 @@ Podes copiar este código diretamente para o teu ficheiro `README.md`:
 > 🖼️ **Gostas de arte digital ou precisas de um design de personagem?**
 > 
 > 📩 **Status:** Comissões **ABERTAS**!
-> 
-> Visita o link abaixo para conferir o portfólio e valores:
 
-[![Portfólio](https://img.shields.io/badge/Acessar_Portfólio-Click_Aqui-2ea44f?style=for-the-badge&logo=firefox&logoColor=white)](https://flinng.lurk.me)
 
 </div>
 
@@ -140,6 +131,4 @@ Podes copiar este código diretamente para o teu ficheiro `README.md`:
 <div align="center">
 
   [![Email](https://img.shields.io/badge/Email-robson.filho14%40aluno.ce.gov.br-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robson.filho14@aluno.ce.gov.br)
-  [![Website](https://img.shields.io/badge/Website-flinng.lurk.me-00C7B7?style=for-the-badge&logo=linktree&logoColor=white)](https://flinng.lurk.me)
 
-</div>
