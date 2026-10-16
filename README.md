@@ -1,45 +1,145 @@
-# Olá, eu sou o Robson! 👋
 
-🎓 **Estudante de Informática** | 🎨 **Ilustrador Digital** | 🎸 **Guitarrista**
+<div align="center">
 
-Bem-vindo ao meu perfil no GitHub! Sou estudante da área de tecnologia, apaixonado por programação, arte digital e música. Estou constantemente aprendendo e criando novos projetos.
+  # 🚀 Olá, eu sou o Robson! 👋
 
----
+  ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,24,30&height=200&section=header&text=RobsonCastr&fontSize=70&fontColor=ffffff&animation=fadeIn)
 
-### 🚀 Sobre Mim
+  💻 **Especialista em C++ & CSS** | 🎨 **Ilustrador Digital** | 🎸 **Guitarrista**
 
-- 💻 **Estudante de TI:** Construindo uma base sólida em programação e desenvolvimento de software[cite: 1].
-- 🎨 **Arte & Comissões:** Faço ilustrações digitais sob encomenda e aceito comissões[cite: 1]!
-- 🎸 **Música:** No tempo livre, gosto de tocar guitarra e tirar novos riffs[cite: 1].
-- 🎯 **Foco Atual:** Praticando e aprimorando minhas habilidades em **HTML**, **CSS**, **JavaScript** e **C++**[cite: 1]!
+  *“Do código de alta performance à estética visual perfeita.”* ⚡
+
+</div>
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 💡 Sobre Mim & Especialidades
 
-**Linguagens e Tecnologias:**
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="left">
+  ⚙️ <b>C++ (Lógica & Performance):</b> Foco em estruturação de dados, algoritmos e desenvolvimento de software eficiente.<br>
+  🎨 <b>CSS (Estilização & UI/UX):</b> Apaixonado por transformar telas em experiências visuais incríveis, usando animações, layout responsivo e design moderno.<br>
+  🎨 <b>Arte & Comissões:</b> Faço ilustrações digitais sob encomenda e aceito comissões criativas.<br>
+  🎸 <b>Música:</b> Nos tempos livres, toco guitarra e explorando novos riffs e acordes.<br>
+  🎯 <b>Foco Atual:</b> Explorar a intersecção entre o desenvolvimento web criativo (CSS/HTML/JS) e a computação robusta (C++).
+</p>
 
-**Ferramentas Criativas:**
-![Arte Digital](https://img.shields.io/badge/Arte_Digital-Comissões_Abertas-ff69b4?style=for-the-badge&logo=artstation&logoColor=white)
+---
+
+### 🛠️ Stack Tecnológica & Foco Principal
+
+<div align="center">
+
+  #### ⚡ Core & Performance (Backend / Lógica)
+  [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+
+  #### 🎨 Design & Estilização (Frontend / UI)
+  [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+  #### 🎨 Criatividade & Hobbies
+  [![Digital Art](https://img.shields.io/badge/Arte_Digital-Comissões_Abertas-ff69b4?style=for-the-badge&logo=artstation&logoColor=white)](https://flinng.lurk.me)
+  [![Guitar](https://img.shields.io/badge/Música-Guitarrista-9146FF?style=for-the-badge&logo=spotify&logoColor=white)](#)
+
+</div>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RobsonCastr&show_icons=true&theme=tokAqui tens uma versão do perfil do GitHub **especializada em destacar o teu domínio e foco em CSS e C++**, unindo o melhor do design visual (CSS) com a lógica e performance de baixo nível (C++), sem esquecer a tua arte e a música!
+
+Podes copiar este código diretamente para o teu ficheiro `README.md`:
+
+---
+
+```markdown
+<div align="center">
+
+  # ⚡ RobsonCastr | CSS & C++ Developer
+
+  ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6,15,30,40&height=200&section=header&text=RobsonCastr&fontSize=70&fontColor=ffffff&animation=fadeIn)
+
+  🎨 **Estilista de Interfaces (CSS)** | ⚙️ **Lógica & Performance (C++ Timer)** | 🎸 **Guitarrista & Artista**
+
+  *“Criando interfaces visuais impressionantes com CSS e construindo lógicas robustas com C++.”* 🚀
+
+</div>
+
+---
+
+### 💻 O Meu Ecossistema Tecnológico
+
+<div align="center">
+
+  #### 🎨 Estética & Layout (Especialista em CSS)
+  [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+  #### ⚙️ Lógica & Estrutura (Foco em C++)
+  [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+
+  #### 🎨 Criatividade & Multimédia
+  [![Digital Art](https://img.shields.io/badge/Arte_Digital-Comissões_Abertas-ff69b4?style=for-the-badge&logo=artstation&logoColor=white)](https://flinng.lurk.me)
+  [![Guitar](https://img.shields.io/badge/Música-Guitarra-9146FF?style=for-the-badge&logo=spotify&logoColor=white)](#)
+
+</div>
+
+---
+
+### 🧠 Sobre Mim & Filosofia de Código
+
+- 🎨 **Especialização em CSS:** Fascinado por transformar páginas simples em experiências visuais únicas, animações fluidas e designs altamente responsivos. O CSS é onde a minha vertente artística de ilustrador se cruza com o código.
+- ⚙️ **Lógica em C++:** Como estudante de TI, uso C++ para dominar estruturas de dados, algoritmos e compreender a verdadeira performance e fundação por trás do software.
+- 🎸 **Fora do Terminal:** No tempo livre, toco guitarra para espairecer a mente e crio ilustrações digitais personalizadas.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  
+  <img height="165em" src="[https://github-readme-stats.vercel.app/api?username=RobsonCastr&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=RobsonCastr&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true)"/>
+  <img height="165em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonCastr&layout=compact&theme=vision-friendly-dark&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonCastr&layout=compact&theme=vision-friendly-dark&hide_border=true)"/>
+
+</div>
 
 ---
 
 ### 🎨 Comissões de Desenho
 
-Interessado em um desenho personalizado ou no design de um personagem?
-- 📩 **Status:** Comissões **ABERTAS**!
-- 🖼️ Entre em contato para ver meu portfólio, orçamento e tabela de preços.
+<div align="center">
+
+> 🖼️ **Gostas de arte digital ou precisas de um design de personagem?**
+> 
+> 📩 **Status:** Comissões **ABERTAS**!
+> 
+> Visita o link abaixo para conferir o portfólio e valores:
+
+[![Portfólio](https://img.shields.io/badge/Acessar_Portfólio-Click_Aqui-2ea44f?style=for-the-badge&logo=firefox&logoColor=white)](https://flinng.lurk.me)
+
+</div>
 
 ---
 
-### 📫 Contato / Redes Sociais
+### 🐍 O Jogo da Cobrinha
 
-- 📧 **E-mail:** `robson.filho14@aluno.ce.gov.br`
-- 🌐 **Site / Portfólio:** [https://flinng.lurk.me](https://flinng.lurk.me)
+<div align="center">
+
+  ![Snake Animation](https://raw.githubusercontent.com/RobsonCastr/RobsonCastr/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ---
 
+### 📫 Contacto
+
+<div align="center">
+
+  [![Email](https://img.shields.io/badge/Email-robson.filho14%40aluno.ce.gov.br-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robson.filho14@aluno.ce.gov.br)
+  [![Website](https://img.shields.io/badge/Website-flinng.lurk.me-00C7B7?style=for-the-badge&logo=linktree&logoColor=white)](https://flinng.lurk.me)
+
+</div>
