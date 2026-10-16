@@ -74,10 +74,6 @@
   #### ⚙️ Lógica & Estrutura (Foco em C++)
   [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 
-  #### 🎨 Criatividade & Multimédia
-  [![Digital Art](https://img.shields.io/badge/Arte_Digital-Comissões_Abertas-ff69b4?style=for-the-badge&logo=artstation&logoColor=white)](https://flinng.lurk.me)
-  [![Guitar](https://img.shields.io/badge/Música-Guitarra-9146FF?style=for-the-badge&logo=spotify&logoColor=white)](#)
-
 </div>
 
 ---
